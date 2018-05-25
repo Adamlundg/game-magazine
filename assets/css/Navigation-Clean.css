@@ -80,7 +80,6 @@
 }
 
 #promo {
-  text-align:center;
   padding:5%;
   background:url(../../assets/img/bakgrund.jpg) no-repeat;
   background-size:cover;
@@ -102,10 +101,6 @@
 }
 #entire-page-pubg{
   background:url(../../assets/img/csgo-ak-emperess.jpg);
-}
-
-#main-div {
-  margin:4.5rem;
 }
 
 #gamelogo-header{
